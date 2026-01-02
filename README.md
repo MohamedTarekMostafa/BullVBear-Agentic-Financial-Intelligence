@@ -3,7 +3,7 @@ A Multi-Agent ecosystem where specialized Bulls and Bears clash to deliver data-
 <img width="1600" height="640" alt="image" src="https://github.com/user-attachments/assets/74d24ae4-27bf-4fd6-b2bf-a18efcb554a8" />
 <img width="1600" height="480" alt="image" src="https://github.com/user-attachments/assets/c8ff3ab3-29f0-46f8-ab25-ffc90f5810f7" />
 <img width="1600" height="601" alt="image" src="https://github.com/user-attachments/assets/543d2ea9-8eaa-4b82-a388-d3a7493961ce" />
-(![WhatsApp Image 2026-01-02 at 3 14 40 PM](https://github.com/user-attachments/assets/32872c2c-17b4-46cb-8bf7-16c30fe1341b)
+![WhatsApp Image 2026-01-02 at 3 14 40 PM](https://github.com/user-attachments/assets/32872c2c-17b4-46cb-8bf7-16c30fe1341b
 
 This is a production-grade **Multi-Agent Financial Intelligence System**. Instead of a simple chatbot, it uses a **Parallel Fan-out/Fan-in Architecture** to simulate a professional investment committee, where conflicting perspectives (Bullish vs. Bearish) are synthesized to provide a data-driven, non-biased investment verdict.
 
@@ -42,6 +42,7 @@ The system is built on a **Directed Acyclic Graph (DAG)** using `LangGraph`:
 **Reason:** The system identifies that Intel's stable dividends and lower valuation (Quant data) align better with a **Retiree's Risk Profile**, proving the system doesn't just "chat"—it thinks and remembers.
 
 ---
+
 
 
 
