@@ -27,8 +27,6 @@ The system runs three agents in **parallel** to ensure a balanced and thorough a
 
 ### 1. Prerequisites
 Make sure you have Python 3.9+ installed.
-![WhatsApp Image 2026-01-07 at 11 55 10 PM](https://github.com/user-attachments/assets/ca67ad6b-516e-428c-a445-d16a942bd123)
-![WhatsApp Image 2026-01-07 at 11 55 41 PM](https://github.com/user-attachments/assets/588d4dfb-6cc5-4ac1-a7de-9afbfd5d5ede)
 
 ### 2. Installation
 Clone the repository and install the dependencies:
@@ -61,3 +59,4 @@ The Debate: The Aggregator receives all reports, calls out biases, and generates
 ```
 ![WhatsApp Image 2026-01-07 at 11 55 10 PM](https://github.com/user-attachments/assets/1829bab6-4c6c-46a8-ae4a-c2f515fa871a)
 ![WhatsApp Image 2026-01-07 at 11 55 41 PM](https://github.com/user-attachments/assets/bb88d3a5-051e-4767-b0a0-1cb8e8ee4a78)
+
