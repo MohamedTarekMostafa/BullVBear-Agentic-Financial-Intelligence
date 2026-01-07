@@ -1,10 +1,10 @@
-# 📈 The Multi-Agent Investor
+#  The Multi-Agent Investor
 
 Welcome to the **The Multi-Agent Investor**, an intelligent multi-agent system built with **LangGraph**, **LangChain**, and **Streamlit**. This project simulates a professional hedge fund meeting where three specialized agents with conflicting personalities debate a stock's potential before a "Chief Investment Officer" delivers the final verdict.
 
 ---
 
-## 🤖 Meet the Committee
+![WhatsApp Image 2026-01-07 at 11 07 16 PM](https://github.com/user-attachments/assets/655a3163-986b-416f-844b-7d4a6781d3ce)
 
 The system runs three agents in **parallel** to ensure a balanced and thorough analysis:
 
@@ -30,14 +30,16 @@ The system runs three agents in **parallel** to ensure a balanced and thorough a
 
 ### 1. Prerequisites
 Make sure you have Python 3.9+ installed.
+![Uploading WhatsApp Image 2026-01-07 at 11.55.10 PM.jpeg…]()
+![WhatsApp Image 2026-01-07 at 11 55 41 PM](https://github.com/user-attachments/assets/588d4dfb-6cc5-4ac1-a7de-9afbfd5d5ede)
 
 ### 2. Installation
 Clone the repository and install the dependencies:
 ```bash
 pip install langchain-tavily langchain-groq langgraph yfinance streamlit python-dotenv langfuse
 3. Environment Variables
-Create a .env file in the root directory and add your API keys:
 
+Create a .env file in the root directory and add your API keys:
 GROQ_API_KEY=your_groq_key
 TAVILY_API_KEY=your_tavily_key
 LANGFUSE_PUBLIC_KEY=your_public_key
@@ -57,4 +59,5 @@ app.py: The frontend UI that manages session states and displays the debate.
 User Input: You enter a stock ticker (e.g., NVDA, TSLA).
 Parallel Execution: The Optimist, Pessimist, and Researcher start working simultaneously.
 Tool Usage: Agents use Tavily and yfinance to gather evidence.
+
 The Debate: The Aggregator receives all reports, calls out biases, and generates a structured report with a clear Buy/Hold/Sell reality check.
