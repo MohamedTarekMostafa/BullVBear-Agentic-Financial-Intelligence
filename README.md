@@ -7,9 +7,9 @@ Welcome to the **The Multi-Agent Investor**, an intelligent multi-agent system b
 
 The system runs three agents in **parallel** to ensure a balanced and thorough analysis:
 
-1.  **🟢 The Optimistic Investor:** Scours the web for growth catalysts, expansion plans, and positive market trends.
-2.  **🔴 The Pessimistic Investor:** Digs deep into risks, debts, lawsuits, and competitive threats.
-3.  **📊 The Analytical Researcher:** Focuses strictly on the numbers—fetching real-time market data, P/E ratios, and price trends.
+1.  ** The Optimistic Investor:** Scours the web for growth catalysts, expansion plans, and positive market trends.
+2.  ** The Pessimistic Investor:** Digs deep into risks, debts, lawsuits, and competitive threats.
+3.  ** The Analytical Researcher:** Focuses strictly on the numbers—fetching real-time market data, P/E ratios, and price trends.
 4.  ** The Aggregator (CIO):** A "nasty" but fair Chief Investment Officer who critiques the analysts, resolves conflicts, and provides a bold final verdict.
 
 ---
@@ -59,6 +59,7 @@ The Debate: The Aggregator receives all reports, calls out biases, and generates
 ```
 ![WhatsApp Image 2026-01-07 at 11 55 10 PM](https://github.com/user-attachments/assets/1829bab6-4c6c-46a8-ae4a-c2f515fa871a)
 ![WhatsApp Image 2026-01-07 at 11 55 41 PM](https://github.com/user-attachments/assets/bb88d3a5-051e-4767-b0a0-1cb8e8ee4a78)
+
 
 
 
